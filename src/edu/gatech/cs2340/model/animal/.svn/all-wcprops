@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/343/OregonTrail/src/edu/gatech/cs2340/model/animal
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/model/animal/Animal.java
+END
+CartAnimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/343/OregonTrail/src/edu/gatech/cs2340/model/animal/CartAnimal.java
+END
+HuntableAnimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/model/animal/HuntableAnimal.java
+END

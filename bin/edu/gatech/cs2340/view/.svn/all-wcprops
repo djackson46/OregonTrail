@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/view
+END
+CityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/CityView.java
+END
+TravelerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/357/OregonTrail/src/edu/gatech/cs2340/view/TravelerView.java
+END
+TrailView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/view/TrailView.java
+END
+InitialView.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/InitialView.java
+END
+HuntView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/HuntView.java
+END
+SettingsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/view/SettingsView.java
+END
+ConfigurationFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/view/ConfigurationFrame.java
+END
+AbstractView.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/AbstractView.java
+END
+StoreView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/343/OregonTrail/src/edu/gatech/cs2340/view/StoreView.java
+END
+GameWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/GameWindow.java
+END
+SelectCharacterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/SelectCharacterView.java
+END
+RiverView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/view/RiverView.java
+END

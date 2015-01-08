@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/364/OregonTrail/src/edu/gatech/cs2340/model
+END
+Vector2.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/model/Vector2.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/296/OregonTrail/src/edu/gatech/cs2340/model/Date.java
+END
+Drawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/296/OregonTrail/src/edu/gatech/cs2340/model/Drawable.java
+END
+Purchasable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/343/OregonTrail/src/edu/gatech/cs2340/model/Purchasable.java
+END
+ItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/OregonTrail/src/edu/gatech/cs2340/model/ItemType.java
+END
+Wagon.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/341/OregonTrail/src/edu/gatech/cs2340/model/Wagon.java
+END
+StoreType.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/312/OregonTrail/src/edu/gatech/cs2340/model/StoreType.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/model/Model.java
+END
+GameImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/329/OregonTrail/src/edu/gatech/cs2340/model/GameImage.java
+END
+TestModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/364/OregonTrail/src/edu/gatech/cs2340/model/TestModel.java
+END
+Traveler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/357/OregonTrail/src/edu/gatech/cs2340/model/Traveler.java
+END
+Probability.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/296/OregonTrail/src/edu/gatech/cs2340/model/Probability.java
+END
+Trade.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/312/OregonTrail/src/edu/gatech/cs2340/model/Trade.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/340/OregonTrail/src/edu/gatech/cs2340/model/Store.java
+END

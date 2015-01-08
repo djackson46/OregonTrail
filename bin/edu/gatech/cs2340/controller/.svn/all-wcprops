@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/controller
+END
+InitialController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/339/OregonTrail/src/edu/gatech/cs2340/controller/InitialController.java
+END
+HuntController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/331/OregonTrail/src/edu/gatech/cs2340/controller/HuntController.java
+END
+SettingsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/296/OregonTrail/src/edu/gatech/cs2340/controller/SettingsController.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/296/OregonTrail/src/edu/gatech/cs2340/controller/AbstractController.java
+END
+StoreController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/345/OregonTrail/src/edu/gatech/cs2340/controller/StoreController.java
+END
+SelectCharacterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/296/OregonTrail/src/edu/gatech/cs2340/controller/SelectCharacterController.java
+END
+RiverController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/359/OregonTrail/src/edu/gatech/cs2340/controller/RiverController.java
+END
+CityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/312/OregonTrail/src/edu/gatech/cs2340/controller/CityController.java
+END
+TravelerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/357/OregonTrail/src/edu/gatech/cs2340/controller/TravelerController.java
+END
+TrailController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/357/OregonTrail/src/edu/gatech/cs2340/controller/TrailController.java
+END
